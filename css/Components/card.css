@@ -1,0 +1,36 @@
+.cards {
+	display: block;
+	flex-wrap: wrap;
+}
+
+.card {
+	background:rgb(232, 218, 191);
+  	padding: 40px;
+  	margin: 20px 0px;
+  	border-radius: 210px;
+  	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  	text-align: center;
+  	margin-left:10px;
+  	margin-right:10px;
+  	align-content: center;
+		
+}
+
+.card img {
+	width: 160px;
+	border-radius: 15px;
+	align-content: center;
+	border: 1px solid lightgrey;
+}
+
+.card h3 {
+	flex-grow: 1;
+	padding-left: 20px;
+	font-size: 24px;
+
+}
+
+.text-center { 
+}
+
+
